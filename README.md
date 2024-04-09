@@ -1,3 +1,3 @@
-Nonye Okonkwo is a decorated, former track and field athlete who appreciates medicine is a lifelong journey not a 100m sprint. She engages her creative mind with design projects to inspire daily mindfulness and sustainable living. 
+I am committed to being part of a team that supports the promotion of health equity through patient advocacy and evidence-based continuity of care. As a survivor of multi-generational trauma, not having access to my family medical history and safe housing options limited my life planning ability and impacted my trust in the social services system.
 
-Her resourcefulness can be seen in the custom up-cycled furniture and culinary art she creates with her husband to relieve the stresses of private practice. As a face-painting, sports enthusiast, Nonye is also a proud Golden State Warriors fan and dance fitness guru.
+As a future innovator in mental health and artificial intelligence, I am dedicated to healing mistrust by humanizing the justice of data-driven healthcare and publicizing the power of medical informatics so that we can bridge the intergenerational gap with technology.
