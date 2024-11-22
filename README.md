@@ -1,8 +1,6 @@
-## Business Strategist, Decision-Maker, Voice
+# Business Strategist, Decision-Maker, Voice
 
 Nonye is a creative medical graduate and research and development specialist who is passionate about leading the social transformation of our workplaces, sandboxes and labs to integrate inclusion and diversity into everything that we do.
-
-    ![Teamwork] (resources/teamwork.png)
 
 She is deeply committed to being part of a mission that supports the practice and promotion of health equity through excellence in business enablement and people operations. The most valuable experience that she brings to your mission is her background in accessibility and leadeship in healthcare.
 
