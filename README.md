@@ -8,4 +8,4 @@ As a future leader in workforce innovation and corporate business strategy, Nony
 
 She is young, influential and tenacious. Nonye has the capacity to perform the emotional labor needed to re-align the ideas, processes, and products behind our traditional people operations systems. Her leadership style is collaborative, conversational and rationally compassionate. 
 
-Nonye is looking for a driven team that has the power to build dynamic, data-driven inclusion and diversity functions so that together we can bridge the diversity gap with intuitive tools and powerful initiatives.
+Nonye is looking for a driven team that has the power to build dynamic, data-driven inclusion and diversity functions so that together we can bridge the neurodiversity gap with intuitive tools and powerful initiatives.
