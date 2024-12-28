@@ -1,4 +1,4 @@
-## Performance Coach, Reasoning Engineer##
+## Performance Coach, Reasoning Engineer
 
 Nonye is a business partner and performance analyst who is passionate about integrating data-driven innovation, health and diversity in everything that we do.
 
