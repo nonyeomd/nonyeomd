@@ -1,6 +1,6 @@
-## Performance Coach, Future People Operations Leader
+## Performance Coach, Business Partner
 
-Nonye is a performance coach and people operations specialist who utilizes her deep understanding of human nature to enhance behavioral insights and power corporate culture.
+Nonye is a performance coach and business partner who utilizes her deep understanding of operations to enhance behavioral insights and power corporate culture.
 
 She is deeply committed to being part of a mission that supports excellence in business enablement and human resources. The most valuable experience that she brings to your mission is her background in health and wellness, electric vehicles and artificial intelligence.
 
