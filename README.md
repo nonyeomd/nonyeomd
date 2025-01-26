@@ -1,11 +1,12 @@
-## Performance Coach, Business Partner
+## Research and Development, Business Partner
 
-Nonye is a performance coach and business partner who utilizes her deep understanding of operations to enhance behavioral insights and power corporate culture.
+Nonye is a research and development specialist who utilizes her deep understanding of human nature to enhance business intelligence and power corporate culture.
 
-She is deeply committed to being part of a mission that supports excellence in business enablement and human resources. The most valuable experience that she brings to your mission is her background in health and wellness, electric vehicles and artificial intelligence.
+She is deeply committed to being part of a mission that supports excellence in enablement and human resources. The most valuable experience that she brings to your mission is her background in health and wellness, human data and devices.
 
-As a future leader in workforce internal mobility, Nonye is dedicated to strengthening your global brand by leveraging the power of a healthy, dynamic and engaged workforce.
+As a future leader in workforce innovation, Nonye is dedicated to strengthening your global brand by leveraging the power of a healthy, dynamic and enrolled workforce.
 
-Nonye is young, influential and agile. She has the capacity to perform the emotional labor needed to re-align the ideas, processes, and products behind our traditional people operations systems and data collection methods. Her leadership style is collaborative, conversational and rationally compassionate.
+Nonye is young, influential and agile. She has the capacity to perform the emotional labor needed to re-align the algorithms, incentives, and products behind our traditional human resources systems. Her leadership style is collaborative, conversational and rationally compassionate.
 
-Nonye is looking for a driven team that has the power to build dynamic, data-driven performance evaluation functions so that together we can fuel internal mobility with intuitive tools and powerful initiatives.
+Nonye is looking for a driven team that has the power to build data-driven performance form factors so to fuel internal mobility.
+
