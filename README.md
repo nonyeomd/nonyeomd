@@ -8,5 +8,5 @@ As a future leader in workforce innovation, Nonye is dedicated to strengthening 
 
 Nonye is young, influential and agile. She has the capacity to perform the emotional labor needed to re-align the algorithms, incentives, and products behind our traditional human resources systems. Her leadership style is collaborative, conversational and rationally compassionate.
 
-Nonye is looking for a driven team that has the power to build data-driven performance form factors so to fuel internal mobility.
+Nonye is looking for a driven team that has the power to build employee performance form factors to fuel internal mobility.
 
