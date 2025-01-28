@@ -2,7 +2,7 @@
 
 Nonye is a research and development specialist who utilizes her deep understanding of human nature to enhance business intelligence and power corporate culture.
 
-She is deeply committed to being part of a mission that supports excellence in enablement and human resources. The most valuable experience that she brings to your mission is her background in health and wellness, human data and devices.
+She is deeply committed to being part of a mission that supports excellence in enablement and human resources. The most valuable experience that she brings to your mission is her background in healthcare, human data and devices.
 
 As a future leader in workforce innovation, Nonye is dedicated to strengthening your global brand by leveraging the power of a healthy, dynamic and enrolled workforce.
 
