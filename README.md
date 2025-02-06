@@ -1,6 +1,6 @@
-## Research and Development, Business Partner
+## People Operations, Business Partner
 
-Nonye is a research and development specialist who utilizes her deep understanding of human nature to enhance business intelligence and power corporate culture.
+Nonye is a performance analyst who utilizes her deep understanding of human nature to enhance business intelligence and power corporate culture.
 
 She is deeply committed to being part of a mission that supports excellence in enablement and human resources. The most valuable experience that she brings to your mission is her background in healthcare, human data and devices.
 
