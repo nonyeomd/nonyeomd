@@ -1,12 +1,8 @@
-## People Operations, Business Partner
+## Research and Deveopment, People eXperience Technology, AI/ML
+Nonye is a medical graduate and research scientist who uses her deep understanding of human nature to scale AI/ML projects, generate behavioral insights and expedite operational prototyping. She investigates the feasibility of applying scientific principles to business problems, with a focus on using biometrics to align human capital and create a cohesive people vision. 
 
-Nonye is a performance analyst who utilizes her deep understanding of human nature to enhance business intelligence and power corporate culture.
+Nonye is young, influential and agile. She has the capacity to perform the emotional labor needed to re-align the incentives, methodology, and algorithms behind our traditional performance management systems and data collection methods. Her collaboration style is visual, conversational and rationally compassionate.
 
-She is deeply committed to being part of a mission that supports excellence in enablement and human resources. The most valuable experience that she brings to your mission is her background in healthcare, human data and devices.
+She is looking for a team that has the power to build human-data-driven form factors to fuel people operations and drive corporate culture.
 
-As a future leader in workforce innovation, Nonye is dedicated to strengthening your global brand by leveraging the power of a healthy, dynamic and enrolled workforce.
-
-Nonye is young, influential and agile. She has the capacity to perform the emotional labor needed to re-align the algorithms, incentives, and products behind our traditional human resources systems. Her leadership style is collaborative, conversational and rationally compassionate.
-
-Nonye is looking for a driven team that has the power to build employee performance form factors to fuel internal mobility.
 
