@@ -1,4 +1,4 @@
-### Software Engineer, Generative AI/ML
+# Software Engineer, Generative AI/ML
 
 Nonye is a software engineer and medical graduate who uses her deep understanding of human nature to scale AI/ML model performance, generate actionable insights and expedite operational prototyping.
 
