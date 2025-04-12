@@ -1,9 +1,9 @@
 # Software Engineer, Generative AI/ML
 
-Nonye is a software engineer and medical graduate who uses her deep understanding of human nature to scale AI/ML model performance, generate actionable insights and expedite operational prototyping.
+As a third-generation medical doctor, Nonye leverages over 20 years of experience in people and operations to engineer products and services that people want.
 
-Her insights create the foundational rationale leaders need to enable business functions and allocate human capital. 
+She uses machine learning as a force multiplier to discover novel patterns in consumer behavior and coaches teams to improve resource distribution pipelines.
 
-She investigates the feasibility of applying scientific principles to business problems, with a focus on using NLP to align human and machine capital to create a cohesive humanoid vision.
+Her research focuses on applying economic principles to engineering problems, with a focus on using LLMs to align human and machine capital. 
 
-An agile visual storyteller, she addresses tricky communication challenges with generative AI, delivering low-cost alignment.
+As a consultant, she scales business solutions that combine generative Al and NLP techniques to enhance agentic reinforcement learning.
