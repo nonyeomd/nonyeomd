@@ -1,5 +1,7 @@
 # Software Engineer, Generative AI/ML
 
+## Engineering products that customers love and use to connect— not just with their community— but different versions of their past selves. 
+
 As a third-generation medical doctor, Nonye leverages over 20 years of experience in people and operations to engineer products and services that people want.
 
 She uses machine learning as a force multiplier to discover novel patterns in consumer behavior and coaches teams to improve resource distribution pipelines.
