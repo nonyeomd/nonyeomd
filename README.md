@@ -1,11 +1,10 @@
-# Software Engineer, Generative AI/ML
+# Product Engineer, Generative AI/ML Advertising 
 
-## Engineering products that customers love and use to connect— not just with their community— but different versions of their past selves. 
+## Engineering advertising tools to help customers connect with products, community, and different versions of their past selves.
 
-As a third-generation medical doctor, Nonye leverages over 20 years of experience in people and operations to engineer products and services that people want.
+Nonye leverages natural language processing (NLP) as a force multiplier to uncover innovative patterns in consumer behavior, laying the foundation for the future of personalized advertising through machine learning.
 
-She uses machine learning as a force multiplier to discover novel patterns in consumer behavior and coaches teams to improve resource distribution pipelines.
+Her research centers on applying reinforcement learning principles to optimize product visibility challenges, incorporating advanced machine translation techniques to seamlessly align physical and cognitive resources in dynamic advertising ecosystems.
 
-Her research focuses on applying economic principles to engineering problems, with a focus on using LLMs to align human and machine capital. 
+As a consultant, she fine-tunes rewards programs and machine learning models to drive agentic performance evolution, enabling highly adaptive and personalized advertising strategies.
 
-As a consultant, she scales business solutions that combine generative Al and NLP techniques to enhance agentic reinforcement learning.
