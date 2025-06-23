@@ -2,9 +2,13 @@
 
 ## Engineering advertising tools to help customers connect with products, community, and different versions of their past selves.
 
-Nonye leverages natural language processing (NLP) as a force multiplier to uncover innovative patterns in consumer behavior, laying the foundation for the future of personalized advertising through machine learning.
+Nonye is a consultant who fine-tunes machine learning environments to optimize inference time compute and model classification using natural language. 
 
-Her research centers on applying reinforcement learning principles to optimize product visibility challenges, incorporating advanced machine translation techniques to seamlessly align physical and cognitive resources in dynamic advertising ecosystems.
+She leverages natural language processing (NLP) and binary classification as a force multiplier to uncover monetizable patterns in social lexicon, laying the foundation for the future of AI in peer-to-peer advertising.
 
-As a consultant, she fine-tunes rewards programs and machine learning models to drive agentic performance evolution, enabling highly adaptive and personalized advertising strategies.
+Her scientific research centers on applying behavioral economics principles to digital product visibility challenges in dynamic advertising ecosystems. 
+
+She leverages sentiment analysis to predict the “why” of user needs. Leading to better “who” and “what” of digital advertising placement.
+
+Nonye enjoys using her deep understanding of human nature to help her clients accurately annotate human data and fine-tune LLM models that can understand the context of our digital subjective realities. 
 
