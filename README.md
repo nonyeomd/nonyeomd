@@ -1,6 +1,6 @@
-# Product Engineer, Generative AI/ML Advertising 
+# AI Tutor - Medicine Specialist 
 
-## Engineering advertising tools to help customers connect with products, community, and different versions of their past selves.
+## Annotating subjective reality to heal the internet
 
 Nonye is a consultant who fine-tunes machine learning environments to optimize inference time compute and model classification using natural language. 
 
