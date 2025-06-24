@@ -1,4 +1,4 @@
-# AI Tutor - Medicine Specialist 
+# Perfomance Coach, Reinforcement Learning
 
 ## Annotating subjective reality to heal the internet
 
