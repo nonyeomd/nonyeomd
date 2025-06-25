@@ -1,4 +1,4 @@
-# Perfomance Coach, Reinforcement Learning
+# AI Tutor - Medicine Specialist @xAI
 
 ## Annotating subjective reality to heal the internet
 
