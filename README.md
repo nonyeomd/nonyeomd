@@ -1,14 +1,11 @@
-# AI Tutor - Medicine Specialist @xAI
+# Future World Modeler
 
-## Annotating subjective reality to heal the internet
+Nonye is a medical graduate and scientist who uses her deep understanding of learning to scale model performance, generate insights and expedite operational prototyping.
 
-Nonye is a consultant who fine-tunes machine learning environments to optimize inference time compute and model classification using natural language. 
+She investigates the feasibility of applying scientific principles to productivity problems, with a focus on using reasoning to align human capital and create a cohesive humanoid vision.
 
-She leverages natural language processing (NLP) and binary classification as a force multiplier to uncover monetizable patterns in social lexicon, laying the foundation for the future of AI in peer-to-peer advertising.
+An agile visual storyteller, she addresses complex alignment challenges using natural language to deliver high-powered deployment solutions.
 
-Her scientific research centers on applying behavioral economics principles to digital product visibility challenges in dynamic advertising ecosystems. 
 
-She leverages sentiment analysis to predict the “why” of user needs. Leading to better “who” and “what” of digital advertising placement.
 
-Nonye enjoys using her deep understanding of human nature to help her clients accurately annotate human data and fine-tune LLM models that can understand the context of our digital subjective realities. 
 
