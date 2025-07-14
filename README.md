@@ -2,7 +2,7 @@
 
 ## "generating monetizable synthetic data streams using the context of our intersecting subjective realities"
 
-### Nonye is a research scientist who fine-tunes machine learning environments to optimize inference time compute and model classification using natural language. 
+Nonye is a research scientist who fine-tunes machine learning environments to optimize inference time compute and model classification using natural language. 
 
 She leverages sentiment analysis as a force multiplier to uncover monetizable patterns in social networks, laying the foundation for the future of AI in peer-to-peer advertising.
 
