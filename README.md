@@ -1,11 +1,14 @@
-# Future World Modeler
+# AI Research Scientist, Omnichannel Tools
 
-Nonye is a medical graduate and scientist who uses her deep understanding of learning to scale model performance, generate insights and expedite operational prototyping.
+## I create happy faces and then I feed them to the machines
 
-She investigates the feasibility of applying scientific principles to productivity problems, with a focus on using reasoning to align human capital and create a cohesive humanoid vision.
+Nonye is a medical graduate and research scientist who uses her deep understanding of human nature to bridge the gap
+between data collection and customer satisfaction.
 
-An agile visual storyteller, she addresses complex alignment challenges using natural language to deliver high-powered deployment solutions.
+An agile engineer, she uses inference to align cognitive bandwidth with task selection and model throughput.
 
+Her favorite research projects leverage behavioral economics principles to address competing feature requests to focus
+attention sinks on time-dependent social phenomena.
 
 
 
