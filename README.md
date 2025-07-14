@@ -1,14 +1,15 @@
 # AI Research Scientist, Omnichannel Tools
 
-## I create happy faces and then I feed them to the machines
+## "generating monetizable synthetic data streams using the context of our intersecting subjective realities"
 
-Nonye is a medical graduate and research scientist who uses her deep understanding of human nature to bridge the gap
-between data collection and customer satisfaction.
+### Nonye is a research scientist who fine-tunes machine learning environments to optimize inference time compute and model classification using natural language. 
 
-An agile engineer, she uses inference to align cognitive bandwidth with task selection and model throughput.
+She leverages sentiment analysis as a force multiplier to uncover monetizable patterns in social networks, laying the foundation for the future of AI in peer-to-peer advertising.
 
-Her favorite research projects leverage behavioral economics principles to address competing feature requests to focus
-attention sinks on time-dependent social phenomena.
+Her social research centers on applying behavioral economics principles to product visibility challenges in dynamic advertising ecosystems. 
+
+Nonye uses her deep understanding of human nature to investigate the true “why” and "what" of user needs. Believing that it leads teams to engineer more realistic “who” "where" and "when" of digital and physical product placement.
+
 
 
 
