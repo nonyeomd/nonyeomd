@@ -1,6 +1,6 @@
 # AI Research Scientist, Omnichannel Tools
 
-## "generating monetizable synthetic data streams using the context of our intersecting subjective realities"
+## "generating monetizable human data streams using the context of our intersecting subjective realities"
 
 Nonye is a research scientist who fine-tunes machine learning environments to optimize inference time compute and model classification using natural language. 
 
