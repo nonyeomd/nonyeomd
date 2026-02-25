@@ -1,15 +1,9 @@
-# AI Research Scientist, Omnichannel Tools
+‪Hi! My name is Nonye Okonkwo.
 
-## "generating monetizable human data streams using the context of our intersecting subjective realities"
+I am a former medical doctor turned AI research scientist who develops scalable enterprise solutions to address agentic tool discoverability in adversarial training ecosystems. ‬
 
-Nonye is a research scientist who fine-tunes machine learning environments to optimize inference time compute and model classification using natural language. 
+‪I love applying behavioral game theory to exploit the competitive dynamics of optimizing RL agent policy. ‬
 
-She leverages sentiment analysis as a force multiplier to uncover monetizable patterns in social networks, laying the foundation for the future of AI in peer-to-peer advertising.
+‪My research explores the intersection of inverse reinforcement learning (IRL) and human-centric behavioral economics to deconstruct latent reward functions. ‬
 
-Her social research centers on applying behavioral economics principles to product visibility challenges in dynamic advertising ecosystems. 
-
-Nonye uses her deep understanding of human nature to investigate the true “why” and "what" of user needs. Believing that it leads teams to engineer more realistic “who” "where" and "when" of digital and physical product placement.
-
-
-
-
+‪My goal is to uncover the hidden "why" behind agent actions and correctly incentivize desireable values and outcomes. ‬
