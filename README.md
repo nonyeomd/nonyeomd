@@ -1,3 +1,7 @@
+# Hi! My name is Nonye. 
+
+## I am a medical doctor turned AI Performance Coach. 
+
 I help the brightest engineers in AI build the future of enterprise knowledge management.
 
 When I was a medical student, I noticed that working with “hard-to-reach markets” was cognitively taxing for high-performers.  
