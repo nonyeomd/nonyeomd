@@ -1,4 +1,4 @@
-# AI Al Product Growth & User Research Strategist
+# Machine Learning Engineer
 
 ## Leveraging medical-grade, 1st principles thinking to resolve the AI application layer's biggest challenge——multimodality.
 
