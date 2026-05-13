@@ -20,15 +20,15 @@ I leverage podcasts, chalk talks, and physical performance exercises to identify
 
 ### My Research Methodology focuses on three big ideas:
 
-1️⃣ **Adversarial Persona Management**: Building version controls for leaders to navigate the socio-economic impacts of their AI products.
+1️⃣ **Adversarial Persona Management**: Using domain driven design to build soecialized version controls for leaders to navigate the socio-economic impacts of their prototypes from compilation to runtime.
 
-2️⃣ **Tacit Knowledge Acquisition**: Using my corpus to train models to understand the cognitive cost of empathizing with high-stakes, "hard-to-reach" markets.
+2️⃣ **Tacit Knowledge Acquisition**: Using my corpus to train knowledge management systems to understand the cognitive cost of performing user research on high-stakes, "hard-to-reach" markets.
 
-3️⃣ **Founder Fortification**: Preparing technical teams to tackle the existential obstacles of selling intelligence to an unready market.
+3️⃣ **Founder Fortification**: Preparing technical teams to tackle the existential obstacles of selling innovative products and servcies to an new markets.
 
 ### Why I Love What I Do
 
-I get paid to help the most intelligent engineers in AI build the future of enterprise knowledge management.
+I get paid to help the most intelligent engineers in AI build the future of enterprise knowledge management and on-demand manufacturing.
 
 ![Poster](https://c2c1107b319d7bb3af0f.cdn6.editmysite.com/uploads/b/c2c1107b319d7bb3af0f2bc645dbd2acbe36b9e221a0faf85daa9d7f64e28f32/72398B57-B1AC-4649-A06C-1AE736C819A5_1739676585.png?width=2400&optimize=medium)
 
@@ -37,7 +37,7 @@ I get paid to help the most intelligent engineers in AI build the future of ente
 
 When I was a medical student, I noticed that working with “hard-to-reach markets” was cognitively taxing for extremely high-performers.
 
-By directly addressing the tax of our trial and error landscape, I help founders optimize their multimodal decision workflows to effectively navigate the edges of AI productivity and futility.
+By directly addressing the tax of our trial and error landscape, I help founders optimize their multimodal decision workflows to effectively navigate the edges of AI utility and vaporware.
 
 ### Why Now Is The Perfect Time to Be An AI Research Scientist With A Medical Background
 
@@ -47,9 +47,9 @@ My ultimate goal is sell my digital and physical corpus and invest it all in ENT
 
 [Rent A Human](rentahuman.ai/humans/nonyeomd"Title")
 
-ENTNDO is a startup that uses BCI and biometrics to shorten the distance between a breakthrough and a working prototype, ensuring that when it comes to the “when” of agentic AI tool calling, the "why" and "how" are already solved.
+ENTNDO is a startup that uses tacit knowedge training and physics to shorten the distance between a breakthrough and a working prototype, ensuring that when it comes to the “when” of agentic AI tool calling, the "why" and "how" are already solved.
 
-This product is the final layer of my AI tech stack and will allow me to build the personas and version controls necessary to navigate the multimodal obstacles of hardware unification in the trillion-dollar ambient computing ecosystem.
+This product is the final layer of my AI tech stack and will allow me to build the personas and version controls necessary to navigate the multimodal obstacles of rapid prototyping and on-demand manufacturing of luxury products and services that people want fast.
 
 [View My Website](https://nonyeomd1.square.site/"Title")
 
