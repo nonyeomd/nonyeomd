@@ -1,16 +1,18 @@
-# AI Performance Coach
+# Research Scientist
 
-## Leveraging medical-grade, 1st principles thinking to resolve the AI application layer's biggest challenge——enterprise knowledge management.
+## I bring medical-grade, first-principles thinking from clinical practice into the AI application layer — now focused on the economic, social, and philosophical frontiers of advanced intelligence systems.
 
-My name is Nonye Okonkwo and I am a former medical doctor turned AI performance coach specializing in the "higher-hanging fruit" of the AI application layer.
+Building on my background as a former medical doctor and AI performance coach, I continue to explore adversarial persona management, tacit knowledge acquisition, and founder fortification — helping technical teams and leaders navigate the cognitive and existential costs of building at the edge of AI utility. 
 
 ![Graduation](https://c2c1107b319d7bb3af0f.cdn6.editmysite.com/uploads/b/c2c1107b319d7bb3af0f2bc645dbd2acbe36b9e221a0faf85daa9d7f64e28f32/IMG_3962_1739676582.jpeg?width=2400&optimize=medium)
 
 [View My Resume](https://drive.google.com/file/d/1oepT9EHltKN7WvJ1bWoIpLnehFhYOTjy/view?usp=drivesdk"Title")
 
-I employ my research and engineering background to guide engineers toward the AI application layer's most lucrative, perplexing, and multidimensional challenges.  
+I’m especially interested in using physics-inspired models and tacit knowledge systems to shorten the gap between breakthrough ideas and working prototypes in enterprise knowledge management.
 
-Once we get there, I apply design thinking to my canvas, to help founders visually map local threats and global existential risks during the compilation stage—before they hit production. 
+Previously, I guided high-performing engineers and founders through the most multidimensional challenges in the AI stack using design thinking, visual risk mapping, podcasts, chalk talks, and performance-based methods to externalize socially-derived tacit knowledge.
+
+Always optimizing the “when,” “why,” and “how” of building the future.
 
 ![Artwork](https://c2c1107b319d7bb3af0f.cdn6.editmysite.com/uploads/b/c2c1107b319d7bb3af0f2bc645dbd2acbe36b9e221a0faf85daa9d7f64e28f32/IMG_3504_1739676418.jpeg?width=2400&optimize=medium)
 
@@ -20,15 +22,15 @@ I leverage podcasts, chalk talks, and physical performance exercises to identify
 
 ### My Research Methodology focuses on three big ideas:
 
-1️⃣ **Adversarial Persona Management**: Using domain driven design to build specialized personas for leaders to navigate the socio-economic impacts of their idea prototypes from compilation to runtime.
+1️⃣ **The Economics of AI**: Investigating post-model economics and designing AI monetization strategies that harness real-time social media sentiment to drive adoption and sustainable subscriptions.
 
-2️⃣ **Tacit Knowledge Acquisition**: Using my corpus to train knowledge management systems to understand the cognitive cost of performing user research on high-stakes, "hard-to-reach" markets.
+2️⃣ **Tacit Knowledge Deployment**:  Distilling market data, academic papers, and philosophical texts into lucid, actionable streams of consciousness optimized for intellectual clarity and decisive execution.
 
-3️⃣ **Founder Fortification**: Preparing technical teams to tackle the existential obstacles of selling innovative intelligence products and servcies to new markets.
+3️⃣ **Thesis-Driven Deliverables**: Crafting rigorously cited, highly scannable research briefs, data deep-dives, thesis-driven memos, articles, and letters that surface core arguments and counter-intuitive questions.
 
 ### Why I Love What I Do
 
-I get paid to help the most intelligent engineers in AI build the future of enterprise knowledge management and on-demand idea manufacturing.
+I get paid to help the most intelligent engineers in AI build the future of enterprise knowledge management and on-demand idea manufacturing using AI.
 
 ![Poster](https://c2c1107b319d7bb3af0f.cdn6.editmysite.com/uploads/b/c2c1107b319d7bb3af0f2bc645dbd2acbe36b9e221a0faf85daa9d7f64e28f32/72398B57-B1AC-4649-A06C-1AE736C819A5_1739676585.png?width=2400&optimize=medium)
 
@@ -37,12 +39,14 @@ I get paid to help the most intelligent engineers in AI build the future of ente
 
 When I was a medical student, I noticed that working with “hard-to-reach markets” was cognitively taxing for extremely high-performers.
 
-By directly addressing the tax of our trial and error landscape, I help founders optimize their machine learning workflows to effectively navigate the edges of AI utility and vaporware.
+By directly addressing the tax of our trial and error landscape, I help engineers optimize their machine learning workflows to effectively navigate the edges of AI utility and vaporware.
 
 ![Stella](https://pbs.twimg.com/media/HGelw0HbYAA9fv7?format=jpg&name=large)
 
 
-I am currently ideating a startup that uses tacit knowedge training and physics to shorten the distance between a breakthrough and a working prototype, ensuring that when it comes to the “when” of enterprise knowledge management, the "why" and "how" are already solved.
+I am currently in the conception and pre-seed stage for ENTNDO, a startup that uses tacit knowedge training and physics to shorten the distance between a breakthrough and a working prototype, ensuring that when it comes to the “when” of enterprise knowledge management, the "why" and "how" are already solved.
+
+Thanks for listening.
 
 [View My Website](https://nonyeomd1.square.site/"Title")
 
